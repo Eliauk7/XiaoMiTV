@@ -76,4 +76,3 @@
 ||userapi.hpplay.cn
 ||vipauth.hpplay.cn
 ||devicemgr.hpplay.cn
-||10.1.1.4
